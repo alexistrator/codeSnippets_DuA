@@ -1,0 +1,34 @@
+SearchingAlgos/BinarySearch/IterativeBinarySearch.java
+ SearchingAlgos.BinarySearch.IterativeBinarySearch
+DataStructures/DoublyLinkedList.java
+ DataStructures.DoublyLinkedList
+DataStructures/Tree.java
+ DataStructures.Tree
+Recursion/ggT.java
+ Recursion.ggT
+DataStructures/Heaps.java
+ DataStructures.Heaps
+SearchingAlgos/BinarySearch/RecursiveBinarySearch.java
+ SearchingAlgos.BinarySearch.RecursiveBinarySearch
+SortingAlgos/QuickSort.java
+ SortingAlgos.QuickSort
+SortingAlgos/SelectionSort.java
+ SortingAlgos.SelectionSort
+SortingAlgos/BubbleSorts/BubbleSort.java
+ SortingAlgos.BubbleSorts.BubbleSort
+Recursion/Factorial.java
+ Recursion.Factorial
+DataStructures/LinkedList.java
+ DataStructures.LinkedList
+SortingAlgos/BubbleSorts/OptimizedBubbleSort.java
+ SortingAlgos.BubbleSorts.OptimizedBubbleSort
+SortingAlgos/MergeSort.java
+ SortingAlgos.MergeSort
+SearchingAlgos/someClass.java
+ SearchingAlgos.someClass
+Recursion/Fibonacci.java
+ Recursion.Fibonacci
+SortingAlgos/HeapSort.java
+ SortingAlgos.HeapSort
+SortingAlgos/InsertionSort.java
+ SortingAlgos.InsertionSort
