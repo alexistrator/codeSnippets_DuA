@@ -22,6 +22,14 @@ public class ggT {
         return gcd(a, b-a);
     }
 
+    // Recursive function to return gcd of a and b
+    static int gcd2(int a, int b)
+    {
+        if (b == 0)
+            return a;
+        return gcd2(b, a % b);
+    }
+
     // Driver method
     public static void main(String[] args)
     {
